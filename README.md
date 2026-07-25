@@ -220,14 +220,16 @@ I am a third-year Computer Science & Engineering student at **IIT Guwahati**, ma
 
 ## 🏆 Achievements
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hydra-Ramesh&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
 </p>
 
-## 🐍 Contribution snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hydra-Ramesh/Hydra-Ramesh/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ## 🎯 Current focus
