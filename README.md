@@ -206,8 +206,8 @@ I am a third-year Computer Science & Engineering student at **IIT Guwahati**, ma
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hydra-Ramesh&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hydra-Ramesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&v=1" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hydra-Ramesh&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-Ramesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&v=2" alt="Top languages" />
 </p>
 
 <p align="center">
