@@ -218,6 +218,10 @@ I am a third-year Computer Science & Engineering student at **IIT Guwahati**, ma
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hydra-Ramesh&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hydra-Ramesh/Hydra-Ramesh/master/github-metrics.svg" alt="Metrics overview" />
+</p>
+
 ## 🏆 Achievements
 
 <p align="center">
