@@ -20,6 +20,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          output_action: none
           filename: github-metrics.svg
           user: Hydra-Ramesh
           template: classic
@@ -35,6 +36,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          output_action: none
           filename: top-languages.svg
           user: Hydra-Ramesh
           template: classic
@@ -55,6 +57,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          output_action: none
           filename: achievements.svg
           user: Hydra-Ramesh
           template: classic
