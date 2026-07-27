@@ -76,7 +76,12 @@ jobs:
           git config user.name "Hydra-Ramesh"
           git config user.email "dasramesh8343003905@gmail.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
-          git add github-metrics.svg top-languages.svg achievements.svg
+          for file in github-metrics.svg top-languages.svg achievements.svg; do
+            if [ -f "$file" ]; then
+              git add "$file"
+            fi
+          done
+          
           if git diff --cached --quiet; then
             echo "No metric changes detected; skipping commit."
           else
