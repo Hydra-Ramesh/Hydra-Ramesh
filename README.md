@@ -206,11 +206,8 @@ I am a third-year Computer Science & Engineering student at **IIT Guwahati**, ma
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-Ramesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&v=2" alt="Top languages" />
-</p>
-
-<p align="center">
-  <em>The GitHub statistics card is temporarily unavailable, so this section shows the language breakdown instead.</em>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra-Ramesh&theme=tokyonight" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra-Ramesh&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
