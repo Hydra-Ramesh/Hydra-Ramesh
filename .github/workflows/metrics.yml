@@ -78,9 +78,8 @@ jobs:
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
           git add github-metrics.svg top-languages.svg achievements.svg
           if git diff --cached --quiet; then
-            echo "No metric changes detected; creating an empty commit to refresh the contribution graph."
-            git commit --allow-empty -m "chore: refresh GitHub metrics [skip ci]"
+            echo "No metric changes detected; skipping commit."
           else
             git commit -m "chore: update GitHub metrics [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
           fi
-          git push origin HEAD:${{ github.ref_name }}
