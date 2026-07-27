@@ -207,6 +207,7 @@ I am a third-year Computer Science & Engineering student at **IIT Guwahati**, ma
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra-Ramesh&theme=tokyonight" alt="GitHub profile details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra-Ramesh&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
